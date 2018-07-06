@@ -1,0 +1,4 @@
+[28-Jun-2018 00:59:36 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/logic2017/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[28-Jun-2018 05:57:08 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/logic2017/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[28-Jun-2018 06:02:28 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/logic2017/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[28-Jun-2018 06:35:28 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/logic2017/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
